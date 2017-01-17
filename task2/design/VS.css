@@ -1,0 +1,228 @@
+#VS_ALL
+{
+    position: relative;
+    text-align: center;
+    border: 1px solid #0f5b77;
+    padding-bottom: 75px;
+    background-color: #a4b485;
+}
+
+#VS_FRAME
+{
+    position: relative;
+    text-align: center;
+    padding: 2%;    
+}
+
+.VS_WRAPPER
+{
+    display: inline-block;
+    vertical-align: top;
+    width: 33%;
+    min-width: 300px;
+    text-align: center;
+} 
+
+.VS_DIAL
+{
+    position: relative;
+    margin: 0 auto;
+    width: 300px;
+    height: 300px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 300px 300px;    
+}
+
+.VS_ALLDTL
+{
+    background-color: white;
+    border-radius: 37px;         
+}
+
+.gr_paterson
+{
+    background-image: url(/images/gr_paterson.png);
+}
+
+.gr_peromnes
+{
+    background-image: url(/images/gr_peromnes.png);
+}
+
+.gr_hay
+{
+    background-image: url(/images/gr_hay.png);
+}
+
+.time
+{
+    background-image: url(/images/time.png);
+}
+
+.VS_DIAL img
+{
+    display: block;
+    position: absolute;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+.VSTD
+{
+    padding: 7px;
+    font-size: 15px;
+}
+.VS_DIAL h1,h2,h3,h4,h5{ margin: 0; }
+
+.VS_DIAL h1{ padding: 35px 10px 10px 10px; }
+.VS_DIAL h2{ padding: 10px; }
+.VS_DIAL h3{ font-weight: 300; }
+
+
+#PQ_FRAME
+{
+    text-align: center;
+    padding: 2%;
+    padding-bottom: 10px;
+    background-color: #a4b485;
+}
+
+.PQ_WRAPPER
+{
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    text-align: center;
+    margin: 1%;
+} 
+
+.PQ_DIAL
+{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-image: url(/images/gr_gen.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    margin-bottom: 15px;
+}
+
+.PQ_DIAL img
+{
+    display: block;
+    position: absolute;
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+.PQ_TIT
+{
+    padding: 10px 0px 20px 0px;
+    font-size: 14px;
+    text-align: center;
+    color: white;
+    font-weight: 500;
+}
+.PQDTL
+{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    color: white;
+    bottom: 30px;
+}
+
+.VS_RESHDR
+{
+    width: 100%;
+    min-width: 150px;
+    padding: 10px 0px 10px 0px;
+    background-color: #a4b485;
+}
+.VS_RESHDR h1
+{
+    width: 33%;
+    min-width: 150px;
+    padding: 10px;
+    margin: 0;
+    font-size: 22px;
+    color: white;
+    font-weight: 300;
+    background-color: #697551;
+    border-top-right-radius: 10px; 
+    border-bottom-right-radius: 10px;  
+    text-align: center; 
+}
+
+.CMP
+{
+    position: relative;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 10px; 
+    padding: 10px;   
+}
+
+.VS_CMPHDR
+{
+    padding: 5px;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: right;
+}
+
+.VS_CMPDTL
+{
+    border-left: 1px solid #C0C0C0;
+    padding: 5px;
+    font-weight: 300;
+    font-size: 16px;
+    text-align: left;
+}
+.COMMITTEE
+{
+    text-align: left;
+    position: relative;
+    background-color: white;
+    border-radius: 10px; 
+    padding: 10px; 
+    font-size: 16px;
+}
+.INOTE
+{
+    padding: 2%;
+    width: 96%;
+    text-align: left;
+    border-bottom: 1px solid #D0D0D0;
+    background-color: #cdd8b9;
+    border-top-right-radius: 10px; 
+    border-top-left-radius: 10px; 
+    font-size: 14px;
+    color: #585858;
+    font-family: mmfont;
+    font-weight: 300;    
+}
+
+#NOTES
+{            
+    display: block;
+    text-decoration: none;    
+    padding: 2% 20% 2% 2%;
+    width: 78%;
+    height: 80px;
+    text-align: left;
+    background-color: white;
+    border-bottom-right-radius: 10px; 
+    border-bottom-left-radius: 10px; 
+    font-size: 16px;
+    color: #585858;
+    font-family: mmfont;
+    font-weight: 300;
+    background-image: url(/images/notes.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+
