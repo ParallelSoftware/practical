@@ -7,6 +7,7 @@ You are required to bubble sort an array of Candidates based on their age. You w
 
 ##Task 2:
 Directory: /task2
-You will be given an application developed in PHP, however, there are bugs preventing it from functioning.
-- Fix as many bugs as possible
-- Change all the images within the application to the logo provided
+Within the directory is another directory called 'crud'.
+- Get crud up and running on Apache / NGnx
+- Add the provider banner as a header to the app
+- Fix bugs
